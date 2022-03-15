@@ -79,5 +79,5 @@ body{
     
     border-radius: 10px;
     
-    box-shadow: 2px 4px;
+     box-shadow: inset 0px 0px 21px -1px rgba(0,0,0,0.23);
 }
