@@ -5,7 +5,8 @@ body{
 }
 
 .header h1, .footer h1{
-    padding-top: 10px;
+    padding-top: 25px;
+    padding-left: 25px;
 }
 .container h1{
     padding-left: 25px;
